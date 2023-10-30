@@ -13,5 +13,5 @@
 **Usage**:
 
 ```
-python3 main.py --data_corruption /path/to/imagenet-c --exp_type [normal/bs1/mix_shifts/label_shifts] --method [no_adapt/tent/eata/sar/vct] --model vitbase_timm --output /output/dir
+python3 main.py --data_corruption /path/to/imagenet-c --exp_type [normal/bs1/mix_shifts/label_shifts] --method [no_adapt/tent/sar/vct] --model vitbase_timm --output /output/dir
 ```
