@@ -22,7 +22,6 @@ import torch
 import torch.nn.functional as F
 
 import tent
-import eata
 import sar
 import vct
 from sam import SAM
